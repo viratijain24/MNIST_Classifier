@@ -1,36 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c4073ff-1416-468a-89ac-162f8d35a9d6" name="Changes" comment="" />
+    <list default="true" id="3c4073ff-1416-468a-89ac-162f8d35a9d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/helper_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MNIST_Classifier.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MNIST_Classifier.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;viratijain24&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/viratijain24/MNIST_Classifier.git&quot;,
+    &quot;accountId&quot;: &quot;96d82e21-18eb-40ec-83e8-9cfc11aae341&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000027949503" />
+      <entry key="S2" value="1.0088763106682508" />
+      <entry key="S5" value="1.215817068285922" />
+      <entry key="S10" value="1.6497586699952733" />
+      <entry key="S30" value="2.3714513138311553" />
+      <entry key="S60" value="2.655648987218087" />
+      <entry key="M2" value="2.8200299268277997" />
+      <entry key="M5" value="3.1818466548193722" />
+      <entry key="M10" value="5.048409423907702" />
+      <entry key="M15" value="7.172321460482409" />
+      <entry key="M30" value="11.43434572468276" />
+      <entry key="H1" value="14.97681815016549" />
+      <entry key="H2" value="17.269621795123296" />
+      <entry key="H4" value="18.57522925228673" />
+      <entry key="D1" value="19.7538126545624" />
+      <entry key="W1" value="19.96461056276207" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.101642164661835E-264" />
+      <entry key="S5" value="3.380831368028918E-106" />
+      <entry key="S10" value="1.8387037194798178E-53" />
+      <entry key="S30" value="2.63939213482277E-18" />
+      <entry key="S60" value="1.6246206125809102E-9" />
+      <entry key="M2" value="4.0306582745017094E-5" />
+      <entry key="M5" value="0.017464268182975563" />
+      <entry key="M10" value="0.13215244297013792" />
+      <entry key="M15" value="0.25944788254935747" />
+      <entry key="M30" value="0.5093602679335694" />
+      <entry key="H1" value="0.7136948002707946" />
+      <entry key="H2" value="0.8448045929508163" />
+      <entry key="H4" value="0.9191325219742887" />
+      <entry key="D1" value="0.9860441379008187" />
+      <entry key="W1" value="0.9979942769025185" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.005524271728019904" />
+      <entry key="MS500" value="0.35355339130823493" />
+      <entry key="S2" value="0.777009299760715" />
+      <entry key="S5" value="1.0787219241684367" />
+      <entry key="S10" value="1.5343341803548267" />
+      <entry key="S30" value="2.3048657109353425" />
+      <entry key="S60" value="2.6165789073854944" />
+      <entry key="M2" value="2.7988422249710747" />
+      <entry key="M5" value="3.189911489787057" />
+      <entry key="M10" value="5.17423374232994" />
+      <entry key="M15" value="7.426379729358248" />
+      <entry key="M30" value="11.93986669200111" />
+      <entry key="H1" value="15.688125790761134" />
+      <entry key="H2" value="18.113082809014532" />
+      <entry key="H4" value="19.493647460695765" />
+      <entry key="D1" value="20.73973135931928" />
+      <entry key="W1" value="20.96258675783345" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3IXRI1ZrPn4LtnoubeiNTRP3GdM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.helper_utils.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -50,5 +153,8 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

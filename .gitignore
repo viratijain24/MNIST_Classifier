@@ -1,0 +1,13 @@
+.venv/
+venv/
+.idea/
+__pycache__/
+
+# ML Files (Never push these to GitHub)
+data/
+*.pkl
+*.pth
+*.h5
+models/
+.ipynb_checkpoints/
+
